@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Town_locations>
+  <Town_location>
+    <Town>Petticoat Creek</Town>
+    <Lat>-38.718949</Lat>
+    <Lon>143.725959</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Douglas</Town>
+    <Lat>-37.842988</Lat>
+    <Lon>144.892631</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Mildura</Town>
+    <Lat>-34.181714</Lat>
+    <Lon>142.163072</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Broadford</Town>
+    <Lat>-37.203001</Lat>
+    <Lon>145.050171</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Officer</Town>
+    <Lat>-38.063056</Lat>
+    <Lon>145.40958</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Nowa Nowa</Town>
+    <Lat>-37.733238</Lat>
+    <Lon>148.089423</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Langsborough</Town>
+    <Lat>-38.651487</Lat>
+    <Lon>146.675098</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Kew</Town>
+    <Lat>-37.8032</Lat>
+    <Lon>145.0348</Lon>
+  </Town_location>
+  <Town_location>
+    <Town>Plenty</Town>
+    <Lat>-37.669323</Lat>
+    <Lon>145.123111</Lon>
+  </Town_location>
+</Town_locations>
